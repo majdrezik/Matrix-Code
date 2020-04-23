@@ -6,6 +6,7 @@ Matrix effect with 1s and 0s in notepad.
 **How to run this code:**
 1. create a new **.txt** file.
 2. Copy and paste this code into your **.txt** file:
+
       @echo off
       color 0a
       cls
