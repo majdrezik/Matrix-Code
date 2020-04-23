@@ -1,5 +1,6 @@
 # Matrix-Code
 Matrix effect with 1 and 0 in notepad.
+![](src/pics/social_media/social%20media%20final.PNG)
 
 **How to run this code:**
 1. create a new **.txt** file.
