@@ -89,7 +89,7 @@ Matrix effect with 1s and 0s in notepad.
                   set /a z=%random%
                   if %z% geq 16384 set /a zz=1
                   if %z% lss 16384 set /a zz=0
-                  echo %aa% %bb% %cc% %dd% %ee% %ff% %gg% %hh% %ii% %jj% %kk% %ll% %mm% %nn% %oo% %pp% %qq% %rr% %ss% %tt% %uu% %vv%                        %ww% %xx% %yy%       %zz%
+                  echo %aa% %bb% %cc% %dd% %ee% %ff% %gg% %hh% %ii% %jj% %kk% %ll% %mm% %nn% %oo% %pp% %qq% %rr% %ss% %tt% %uu% %vv%%ww% %xx% %yy%%zz%
                   goto a
 
 3. Change file type to **.bat**
