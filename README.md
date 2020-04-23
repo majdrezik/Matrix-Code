@@ -1,5 +1,5 @@
 # Matrix-Code
-Matrix effect with 1 and 0 in notepad.
+Matrix effect with 1s and 0s in notepad.
 
 ![](matrix_code.PNG)
 
