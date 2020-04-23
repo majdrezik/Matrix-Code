@@ -93,7 +93,9 @@ Matrix effect with 1s and 0s in notepad.
                   goto a
 
 3. Change file type to **.bat**
+  
   3.1. Save as type: All Files
+  
   3.2. Give the file a **name** and add **.bat** extention. (i.e. **matrix.bat**)
   
 4. Open .bat file that you have created. (double click)
